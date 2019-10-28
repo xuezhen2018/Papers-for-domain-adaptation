@@ -14,3 +14,4 @@ Main features: This paper combines feature adaptation with pixel adaptation, usi
 
 # Pixel Adaptation
 
+[1] ECCV2016, Perceptual Losses for Real-Time Style Transfer and Super-Resolution. Link: https://arxiv.org/abs/1603.08155. Main features: This paper proposes a training loss using pretrained VGG16 network. Style-consistency can be ensured by L2-Distance of Gram Matrix on different feature maps, and Content-consistency can be ensured by L2-Distance of high-level feature maps. Simple but interpretable.
