@@ -15,3 +15,7 @@ Main features: This paper combines feature adaptation with pixel adaptation, usi
 # Pixel Adaptation
 
 [1] ECCV2016, Perceptual Losses for Real-Time Style Transfer and Super-Resolution. Link: https://arxiv.org/abs/1603.08155. Main features: This paper proposes a training loss using pretrained VGG16 network. Style-consistency can be ensured by L2-Distance of Gram Matrix on different feature maps, and Content-consistency can be ensured by L2-Distance of high-level feature maps. Simple but interpretable.
+
+[2] CVPR2017, Image-to-Image Translation with Conditional Adversarial Networks. Link: https://arxiv.org/abs/1611.07004. Also named Pix2Pix, mainly doing paired iamge generation. You must know, unnecessary to introduce.
+
+[3] ICCV2017, Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks. Link: https://arxiv.org/abs/1703.10593v4. Also named CycleGAN, doing unpaired image generation. You must know, uncessary to introduce.
