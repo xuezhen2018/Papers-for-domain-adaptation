@@ -19,3 +19,5 @@ Main features: This paper combines feature adaptation with pixel adaptation, usi
 [2] CVPR2017, Image-to-Image Translation with Conditional Adversarial Networks. Link: https://arxiv.org/abs/1611.07004. Also named Pix2Pix, mainly doing paired iamge generation. You must know, unnecessary to introduce.
 
 [3] ICCV2017, Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks. Link: https://arxiv.org/abs/1703.10593v4. Also named CycleGAN, doing unpaired image generation. You must know, uncessary to introduce.
+
+[4] ECCV2018, Multimodal Unsupervised Image-to-Image Translation. Link: https://arxiv.org/abs/1804.04732. Main features: This paper decomposes an image into a style representation and a content representation, and then recontructs the image from the content representation and another style representation. Thus it can generate any style images by controlling the potential style representation.
