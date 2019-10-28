@@ -1,5 +1,5 @@
 # Papers-for-domain-adaptation
-This repository contains the papers that I've read and recommended for anyone else working in domain adaptation.
+This repository contains the papers that I've read and recommended for anyone else working in domain adaptation, especially in semantic segmentation.
 
 # Feature Adaptation
 
